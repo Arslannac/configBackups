@@ -1,0 +1,33 @@
+{
+    "editor.defaultFormatter": "dbaeumer.vscode-eslint",
+    "eslint.validate": [
+        "javascript",
+        "typescript",
+        "typescriptreact"
+    ],
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "workbench.colorTheme": "GitHub Dark Dimmed",
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.fontFamily": "'Space Mono', monospace",
+    "editor.fontLigatures": true,
+    "editor.fontWeight": "600",
+    "indentRainbow.colors": [
+        "rgba(239, 71, 111,0.15)",
+        "rgba(255, 209, 102,0.15)",
+        "rgba(6, 214, 160, 0.15)",
+        "rgba(17, 138, 178,0.15)",
+        "rgba(7, 59, 76,0.15)"
+    ],
+    "editor.bracketPairColorization.enabled": true,
+    "projectManager.any.baseFolders": [
+        "/home/canarslan/Projeler",
+        "/Projeler"
+    ],
+    "projectManager.git.baseFolders": [
+        "/home/canarslan/Projeler"
+    ],
+    "projectManager.any.maxDepthRecursion": 1,
+    "glassit.alpha": 255,
+    "git.autofetch": true,
+    "window.zoomLevel": -2
+}
